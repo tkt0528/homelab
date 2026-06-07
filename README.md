@@ -18,3 +18,7 @@ Build and operate a practical homelab environment for learning infrastructure en
 * Samba
 * Kavita
 * Jellyfin
+
+## Enviroment
+
+Work in progress
