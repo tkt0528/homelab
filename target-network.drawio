@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="C6nf_UzslVV5_xHe54Ph" name="ページ1">
+        <mxGraphModel dx="1438" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="-1150" width="800" height="500" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="18" y="20" width="790" height="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;ホームラボ　ネットワーク構成図（ターゲット）&lt;/font&gt;&lt;div&gt;Version: 1.0&lt;br&gt;Last Update: 2026-06-15&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="18" y="-1140" width="350" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
